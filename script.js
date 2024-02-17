@@ -6,5 +6,5 @@ let solution = num1 / num2;
 let name = "Moses"
 let newMessage = `${message} my name is ${name}.`;
 console.log(solution);
-console.log(shopping)
+console.log(shopping);
 console.log(newMessage);
